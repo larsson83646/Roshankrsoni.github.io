@@ -1,0 +1,10 @@
+{
+  "name": "roshankrsoni.github.io",
+  "version": "0.1.0",
+  "description": "ONLINE PORTFOLIO FOR DEVELOPERS  ",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
